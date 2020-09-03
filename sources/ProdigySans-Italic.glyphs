@@ -1,5 +1,5 @@
 {
-.appVersion = "1325";
+.appVersion = "1346";
 copyright = "Copyright 2020 The Prodigy Sans Project Authors (https://github.com/weiweihuanghuang/Prodigy-Sans)";
 customParameters = (
 {
@@ -49,7 +49,7 @@ name = vendorID;
 value = WEI;
 }
 );
-date = "2020-05-01 09:40:28 +0000";
+date = "2020-09-03 01:30:09 +0000";
 designer = "Wei Huang";
 designerURL = "http://weiweihuanghuang.github.io/";
 familyName = "Prodigy Sans";
@@ -139538,5 +139538,5 @@ oV = "16";
 };
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
